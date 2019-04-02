@@ -1,0 +1,7 @@
+.build
+Convert-Float-MBF-*
+*~
+*.log
+*.swp
+*.exe
+**/tags
